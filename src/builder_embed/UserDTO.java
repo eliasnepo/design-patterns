@@ -1,9 +1,9 @@
-package builder2;
+package builder_embed;
 
 import java.time.LocalDate;
 import java.time.Period;
 
-import builder1.Address;
+import builder_with_inheritance.Address;
 
 
 //Product class

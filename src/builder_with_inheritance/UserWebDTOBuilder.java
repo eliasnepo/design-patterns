@@ -1,4 +1,4 @@
-package builder1;
+package builder_with_inheritance;
 import java.time.LocalDate;
 import java.time.Period;
 

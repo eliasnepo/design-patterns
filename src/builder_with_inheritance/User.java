@@ -1,4 +1,4 @@
-package builder1;
+package builder_with_inheritance;
 import java.time.LocalDate;
 
 //Entity class used to construct the DTO

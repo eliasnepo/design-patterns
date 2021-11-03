@@ -1,4 +1,4 @@
-package builder1;
+package builder_with_inheritance;
 public class Address {
 
 	private String houseNumber;

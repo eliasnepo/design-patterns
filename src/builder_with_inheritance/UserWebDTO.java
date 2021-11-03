@@ -1,4 +1,4 @@
-package builder1;
+package builder_with_inheritance;
 //A product in builder pattern
 public class UserWebDTO implements UserDTO {
 

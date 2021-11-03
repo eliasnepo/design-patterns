@@ -1,10 +1,10 @@
-package builder2;
+package builder_embed;
 
 import java.time.LocalDate;
 
-import builder1.Address;
-import builder1.User;
-import builder2.UserDTO.UserDTOBuilder;
+import builder_embed.UserDTO.UserDTOBuilder;
+import builder_with_inheritance.Address;
+import builder_with_inheritance.User;
 
 public class Client {
 
