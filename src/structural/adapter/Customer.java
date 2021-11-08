@@ -1,9 +1,5 @@
 package structural.adapter;
 
-/**
- * Target interface required by new client code
- * Target Interface
- */
 public interface Customer {
 
 	String getName();

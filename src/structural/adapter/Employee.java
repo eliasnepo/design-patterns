@@ -1,9 +1,5 @@
 package structural.adapter;
 
-/**
- * An existing class used in our system
- * Adaptee
- */
 public class Employee {
 
 	private String fullName;

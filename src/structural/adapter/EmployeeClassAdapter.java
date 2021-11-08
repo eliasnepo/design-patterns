@@ -1,8 +1,5 @@
 package structural.adapter;
 
-/**
- * A class adapter, works as Two-way adapter
- */
 public class EmployeeClassAdapter extends Employee implements Customer{
 
 	@Override

@@ -1,8 +1,5 @@
 package structural.adapter;
 
-/**
- * Client code which requires Customer interface.
- */
 public class BusinessCardDesigner {
 
 	public String designCard(Customer customer) {

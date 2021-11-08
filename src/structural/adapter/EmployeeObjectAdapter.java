@@ -1,8 +1,5 @@
 package structural.adapter;
 
-/**
- * An object adapter. Using composition to translate interface
- */
 public class EmployeeObjectAdapter implements Customer{
 
 	private Employee adaptee;
